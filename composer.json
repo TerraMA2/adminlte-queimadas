@@ -1,0 +1,30 @@
+{
+  "name": "inpe/adminlte_queimadas",
+  "description": "AdminLTEQueimadas - admin control panel and dashboard that's based on Bootstrap 3, adapted from AdminLTE for use in the INPE Queimadas department systems",
+  "homepage": "http://almsaeedstudio.com/",
+  "keywords": [
+    "css",
+    "js",
+    "less",
+    "responsive",
+    "back-end",
+    "template",
+    "theme",
+    "web",
+    "admin"
+  ],
+  "authors": [
+    {
+      "name": "Abdullah Almsaeed",
+      "email": "support@almsaeedstudio.com"
+    },
+    {
+      "name": "Jean Souza",
+      "email": "jean.souza@funcate.org.br"
+    }
+  ],
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/almasaeed2010/AdminLTE/issues"
+  }
+}
